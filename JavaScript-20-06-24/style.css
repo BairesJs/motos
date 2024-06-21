@@ -1,0 +1,345 @@
+* {
+  margin: 0;
+  padding: 0;
+ 
+  
+
+  }
+
+ html, body {
+  
+  height: 100%
+   
+  }
+  .whatsapp{
+    margin-left: 10px;
+  }
+
+  #mydiv{display: block;
+    background-color: black;
+    
+    padding: 5px;
+    width: 150%;
+  }
+  #img-logo{
+    margin-left: 5px;
+    
+
+  }  
+  
+  
+.mydivClass{
+  background-color: black;
+  border-color: dimgray;
+  color: white;
+  width: 95%;
+  border-radius:10px;
+  padding: 10px;
+  margin: 3px;
+  
+
+
+ 
+  
+}
+
+.mydivClass:hover{
+  background-color: blue;
+  font-size: 20px;
+  cursor: pointer;
+ 
+}
+
+#myDivNav{
+  background-color: black;
+  width: 100%;
+  display: flex;
+  font-size: 17px;
+  justify-content: space-between; 
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 7px;
+ 
+ 
+}
+
+#myDiv2{
+  
+background-color: black;
+width: 100%;
+
+
+}
+
+#mydivPie{
+  background-color: black;  
+  width: 100%;
+
+    
+    padding: 5px;
+    text-align: right;
+    /*background-image:  url("img/hero4.jpg");*/
+    
+    
+}
+
+#myDivNav2{
+  background-color: black;
+  /*background-image:  url("img/hero2.jpg");*/
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  place-content: center;
+  padding: 10px;
+  animation: fadein 2s linear;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  
+}
+
+#divImg{
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  place-items: center;
+
+  
+}
+#myDivLogo{
+  background-color: black;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 3;
+  }
+}
+
+#mydivPie{
+  padding: 10px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+#divDatos1{
+    
+    margin-right: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    list-style: none;
+}
+
+#img1{
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.divItemDesc {
+  padding: 10px;
+}
+
+.container{
+  display: grid;
+  place-content: center ;
+}
+
+#contacto{
+  margin-left: 6px;
+  width: 53%;
+}
+
+.btn-dark{
+  width: 100%;
+
+
+}
+
+#whatsapp{
+  margin-left: 20px;
+}
+
+.marcoDivNav2{
+  background-color: black;
+  border: solid 1px lightgray;
+  padding:10px;
+  border-radius: 10px;
+}
+
+
+
+/* Responsive/////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////////////*/
+@media (max-width: 990px) {
+  * {
+    margin: 0;
+    padding: 0;
+    
+  
+    }
+
+        
+    
+    #mydiv{
+      display:grid;
+      place-content: center;
+      width: 100%;
+  
+    }
+
+
+    html, body {
+      height: 100%;
+    }
+       
+        #divImg{
+          width: 100%;
+          display: grid;
+          grid-template-columns: 1fr 1fr  ;
+          place-items: center;
+          
+        }
+        .mydivClass{
+          background-color: black;
+          color: white;
+          width: 95%;
+          border-radius:10px;
+          padding: 10px;
+          margin: 3px;
+          
+        }
+        
+        .mydivClass:hover{
+          background-color: blue;
+          font-size: 20px;
+          cursor: pointer;
+         
+        }
+        #myDiv2{
+          width: 100%;
+
+        }
+        
+}
+
+@media (max-width: 800px) {
+  * {
+    margin: 0;
+    padding: 0;
+    
+  
+    }
+    html, body {
+      height: 100%;
+    }
+
+    #mydiv{
+      display: grid;
+      place-content: center;
+     width: 100%;     
+  
+    }
+    
+  #myDivNav {
+    background-color: blue;
+      display: grid;
+        }
+       
+        #divImg{
+          width: 100%;
+          display: grid;
+          grid-template-columns: 1fr 1fr  ;
+          place-items: center;
+          
+        }
+        .mydivClass{
+          background-color: black;
+          color: white;
+          width: 95%;
+          border-radius:10px;
+          padding: 10px;
+          margin: 3px;
+          
+        }
+        .mydivClass:hover{
+          background-color: blue;
+          font-size: 20px;
+          cursor: pointer;
+         
+        }
+        #myDiv2{
+          width: 100%;
+
+        }
+        
+}
+
+@media (max-width: 650px) {
+  * {
+    margin: 0;
+    padding: 0;
+    
+  
+    }
+    html, body {
+      height: 100%;
+    }
+    #mydiv{
+      display: grid;
+      place-content: center;
+     width: 100%; 
+     
+  
+    }
+  #myDivNav {
+      
+      display: grid;
+      background-color: blue;
+        }
+       
+        #divImg{
+          width: 100%;
+          display: grid;
+          grid-template-columns: 1fr   ;
+          place-items: center;
+          
+        }
+        .imgDesc{
+          width: 400;
+          height: auto;
+
+        }
+        #divDatos1{
+          font-size: 15px;
+        }
+        .mydivClass{
+          background-color: black;
+          color: white;
+          width: 95%;
+          border-radius:10px;
+          padding: 10px;
+          margin: 3px;
+          
+        }
+        .mydivClass:hover{
+          background-color: blue;
+          font-size: 20px;
+          cursor: pointer;
+         
+        }
+        #myDiv2{
+          
+          
+            width: 100%;
+  
+          }
+          
+        
+        
+        
+}
+

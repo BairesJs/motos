@@ -1,0 +1,65 @@
+[
+    {
+      "precio": 0.99,
+      "id": 1,
+      "title": "Yamaha-Fazer250",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-Fazer250.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 2,
+      "title": "yamaha/Yamaha-FZ1",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-FZ1.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 3,
+      "title": "Yamaha-FZ09",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-FZ09.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 4,
+      "title": "Yamaha-FZSV3",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-FZSV3.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 5,
+      "title": "Yamaha-MT15",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-MT15.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Yamaha-WR450F",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-WR450F.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Yamaha-XJR1200",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-XJR1200.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Yamaha-XT600E",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-XT600E.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Yamaha-XV750",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/yamaha/Yamaha-XV750.svg"
+    }
+  ]
