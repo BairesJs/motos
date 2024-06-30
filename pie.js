@@ -9,7 +9,7 @@ export const pieDePaginaJs = () => {
             <img src="img/svg/contacto/whatsapp-80.svg" alt="whatsapp" style="width: 40px; height: auto;">
         </a>
         &#160;&#160;
-        <a href="https://www.instagram.com/preciodeamigo.ar/" style="text-decoration: none;">
+        <a href="https://www.instagram.com/baires.js/" style="text-decoration: none;">
             <img src="img/svg/contacto/instagram-80.svg" alt="Instagram" width="100" style="width: 40px; height: auto;">
         </a>
         <hr>
