@@ -1,0 +1,65 @@
+[
+    {
+      "precio": 0.99,
+      "id": 1,
+      "title": "Benelli302r",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli302r.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 2,
+      "title": "Benelli-BN125",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-BN125.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 3,
+      "title": "Benelli-BN251",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-BN251.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 4,
+      "title": "Benelli-Imperiale400",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-Imperiale400.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 5,
+      "title": "Benelli-TNT135",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-TNT135.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Benelli-TNT300",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-TNT300.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Benelli-TNT600i",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-TNT600i.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Benelli-TNTNaked",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-TNTNaked.svg"
+    },
+    {
+      "precio": 0.99,
+      "id": 6,
+      "title": "Benelli-Tornado1130",
+      "descripcion": "",
+      "thumbnailUrl": "img/svg/benelli/Benelli-Tornado1130.svg"
+    }
+  ]
